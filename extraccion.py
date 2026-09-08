@@ -1,1 +1,2 @@
-columnas = ["fecha", "cliente", "monto_absoluto", "sucursal"]
+
+columnas = ["tipo_de_pago", "fecha", "cliente", "monto_absoluto", "sucursal"]
