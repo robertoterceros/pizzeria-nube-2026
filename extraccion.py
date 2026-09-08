@@ -1,0 +1,1 @@
+columnas = ["fecha", "cliente", "monto_absoluto"]
